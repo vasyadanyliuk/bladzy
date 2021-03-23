@@ -1,0 +1,10 @@
+{
+    "name": "bladzy/reserve-vendor",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Vasya Danyliuk",
+            "email": "vasya.danyliuk@qlicks.nl"
+        }
+    ]
+}
